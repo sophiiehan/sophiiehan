@@ -4,7 +4,7 @@ I'm Sophie, and I'm a software engineer currently in the bay area.
 
 I just graduated from UCSC (go slugs! 🐌) with a degree in computer science.
 
-I mainly experiment with web dev in my free time, from Figma designs to developing with react, typescript, tailwind.
+I mainly experiment with web dev in my free time, from Figma designs to developing with react, typescript, tailwind. I've dabbled in game dev with Unity and C# as well.
 
 I am currently learning iOS development with Swift and SwiftUI
 
