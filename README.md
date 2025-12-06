@@ -1,4 +1,20 @@
-## Hi there 👋
+## Hi everyone! 🌷
+
+I'm Sophie, and I'm a software engineer currently in the bay area.
+
+I just graduated from UCSC (go slugs! 🐌) with a degree in computer science.
+
+I mainly experiment with web dev in my free time, from Figma designs to developing with react, typescript, tailwind.
+
+I am currently learning iOS development with Swift and SwiftUI
+
+🎨 In my spare time, I love art of all mediums. Too many creative hobbies to keep track of, so you can see a showcase of all of them here.
+
+- Acrylic painting
+- Minecraft Building
+- Graphic Design
+- Digital Illustration
+- Photography
 
 <!--
 **sophiiehan/sophiiehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
