@@ -11,7 +11,7 @@ I am currently learning iOS development with Swift and SwiftUI
 🎨 In my spare time, I love art of all mediums. Too many creative hobbies to keep track of, so you can see a showcase of all of them here.
 
 - Acrylic painting
-- Minecraft Building
+- [Minecraft Building](https://sophiiehan.github.io/minecraftgallery/)
 - Graphic Design
 - Digital Illustration
 - Photography
